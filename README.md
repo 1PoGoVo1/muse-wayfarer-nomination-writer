@@ -2,7 +2,7 @@
 
 > Built for [Muse](https://muse.ai). The photo-editing and delivery steps call Muse-specific tools, so this skill won't run as-is on other assistants.
 
-A skill for drafting Niantic Wayfarer nomination text from a proposed title, photos, and optional context.
+A Muse skill for drafting Niantic Wayfarer nomination text from a proposed title, photos, and optional context.
 
 Given a proposed title and one or more photos, it:
 
