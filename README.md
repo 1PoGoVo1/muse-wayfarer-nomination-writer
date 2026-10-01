@@ -1,6 +1,8 @@
 # Wayfarer Nomination Writer
 
 > Built for [Muse](https://muse.ai). The photo-editing and delivery steps call Muse-specific tools, so this skill won't run as-is on other assistants.
+>
+> New to Muse? Redeem invite code `JDG06J` in Settings within 48 hours of joining — we both get bonus tokens: https://muse.ai/join
 
 A Muse skill for drafting Niantic Wayfarer nomination text from a proposed title, photos, and optional context.
 
